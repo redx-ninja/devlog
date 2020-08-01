@@ -70,3 +70,10 @@ Need to spec up in camera rigging.
 The end goal is to just prototype a toolkit that I can piece together to make levels. 
 
 A question I will be pondering is what can I do for a good intro level?
+
+
+It's been a while. How have you been?
+
+Sincerely, 
+
+redx
