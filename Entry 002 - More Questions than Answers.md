@@ -1,4 +1,4 @@
-# Entry 002 - 
+# Entry 002 - More Questions than Answers
 
 ## Self-Evaluation
 Why do we write code? Growing up it just seemed like it was the only control over anything I had. I wasn't learning to code to solve problems,
